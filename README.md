@@ -88,7 +88,7 @@ This code base was informed by the research work carried out in the following pu
 
 ----
 
-**Acknowledgements:** originally forked from an earlier Bag of Visual Words only version at https://github.com/nextgensparx/PyBOW with the additional HOG and selective search code added to this newer version.
+**Acknowledgements:** originally forked from an earlier Bag of Visual Words only version at https://github.com/siphomateke/PyBOW with the additional HOG and selective search code added to this newer version.
 
 _[ but it appears some code portions may have broader origins elsewhere, such as from this tutorial - https://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/ ]_
 

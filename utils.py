@@ -5,7 +5,7 @@
 # This version: (c) 2018 Toby Breckon, Dept. Computer Science, Durham University, UK
 # License: MIT License
 
-# Origin acknowledgements: forked from https://github.com/nextgensparx/PyBOW
+# Origin acknowledgements: forked from https://github.com/siphomateke/PyBOW
 
 ################################################################################
 
