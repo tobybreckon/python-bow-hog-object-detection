@@ -3,7 +3,7 @@
 An exemplar python implementation of the Bag of (Visual) Words and Histogram of Oriented Gradient (HOG) feature based object detection (BoW or HOG features, SVM classification) using [OpenCV](http://www.opencv.org).
 
 Examples used for teaching within the undergraduate Computer Science programme
-at [Durham University](http://www.durham.ac.uk) (UK) by [Prof. Toby Breckon](http://community.dur.ac.uk/toby.breckon/).
+at [Durham University](http://www.durham.ac.uk) (UK) by [Prof. Toby Breckon](https://breckon.org/toby/).
 
 All tested with [OpenCV](http://www.opencv.org) 3.4.x and Python 3.x (requiring numpy also).
 
@@ -80,11 +80,11 @@ The above instructions can be repeated for the set of ```hog_...py``` examples t
 
 This code base was informed by the research work carried out in the following publications:
 
-- [On using Feature Descriptors as Visual Words for Object Detection within X-ray Baggage Security Screening](http://community.dur.ac.uk/toby.breckon/publications/papers/kundegorski16xray.pdf) (M.E. Kundegorski, S. Akcay, M. Devereux, A. Mouton, T.P. Breckon), In Proc. International Conference on Imaging for Crime Detection and Prevention, IET, pp. 12 (6 .)-12 (6 .)(1), 2016. [[pdf](http://community.dur.ac.uk/toby.breckon/publications/papers/kundegorski16xray.pdf)] [[doi](http://dx.doi.org/10.1049/ic.2016.0080)]
+- [On using Feature Descriptors as Visual Words for Object Detection within X-ray Baggage Security Screening](https://breckon.org/toby/publications/papers/kundegorski16xray.pdf) (M.E. Kundegorski, S. Akcay, M. Devereux, A. Mouton, T.P. Breckon), In Proc. International Conference on Imaging for Crime Detection and Prevention, IET, pp. 12 (6 .)-12 (6 .)(1), 2016. [[pdf](https://breckon.org/toby/publications/papers/kundegorski16xray.pdf)] [[doi](http://dx.doi.org/10.1049/ic.2016.0080)]
 
-- [Real-time Classification of Vehicle Types within Infra-red Imagery](http://community.dur.ac.uk/toby.breckon/publications/papers/kundegorski16vehicle.pdf) (M.E. Kundegorski, S. Akcay, G. Payen de La Garanderie, T.P. Breckon), In Proc. SPIE Optics and Photonics for Counterterrorism, Crime Fighting and Defence, SPIE, Volume 9995, pp. 1-16, 2016. [[pdf](http://community.dur.ac.uk/toby.breckon/publications/papers/kundegorski16vehicle.pdf)] [[doi](http://dx.doi.org/10.1117/12.2241106)]
+- [Real-time Classification of Vehicle Types within Infra-red Imagery](https://breckon.org/toby/publications/papers/kundegorski16vehicle.pdf) (M.E. Kundegorski, S. Akcay, G. Payen de La Garanderie, T.P. Breckon), In Proc. SPIE Optics and Photonics for Counterterrorism, Crime Fighting and Defence, SPIE, Volume 9995, pp. 1-16, 2016. [[pdf](https://breckon.org/toby/publications/papers/kundegorski16vehicle.pdf)] [[doi](http://dx.doi.org/10.1117/12.2241106)]
 
-- [A Photogrammetric Approach for Real-time 3D Localization and Tracking of Pedestrians in Monocular Infrared Imagery](http://community.dur.ac.uk/toby.breckon/publications/papers/kundegorski14photogrammetric.pdf) (M.E. Kundegorski, T.P. Breckon], In Proc. SPIE Optics and Photonics for Counterterrorism, Crime Fighting and Defence, SPIE, Volume 9253, No. 01, pp. 1-16, 2014. [[pdf](http://community.dur.ac.uk/toby.breckon/publications/papers/kundegorski14photogrammetric.pdf)] [[doi](http://dx.doi.org/10.1117/12.2065673)]
+- [A Photogrammetric Approach for Real-time 3D Localization and Tracking of Pedestrians in Monocular Infrared Imagery](http://community.dur.ac.uk/toby.breckon/publications/papers/kundegorski14photogrammetric.pdf) (M.E. Kundegorski, T.P. Breckon], In Proc. SPIE Optics and Photonics for Counterterrorism, Crime Fighting and Defence, SPIE, Volume 9253, No. 01, pp. 1-16, 2014. [[pdf](https://breckon.org/toby/publications/papers/kundegorski14photogrammetric.pdf)] [[doi](http://dx.doi.org/10.1117/12.2065673)]
 
 ----
 
